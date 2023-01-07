@@ -80,3 +80,11 @@
     font-weight: 800;
 }
 /* gradient section*/
+.oneo{
+    background-image: url('/images/watch.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.headop{
+    font-size: 40px;
+}
